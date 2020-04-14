@@ -58,7 +58,6 @@ import { MatDividerModule } from "@angular/material/divider";
     MatExpansionModule,
     MatButtonToggleModule,
     MatChipsModule,
-    MatIconModule,
     MatProgressSpinnerModule,
     MatProgressBarModule,
     MatDialogModule,
