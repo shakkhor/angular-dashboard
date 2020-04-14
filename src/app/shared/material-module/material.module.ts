@@ -32,6 +32,7 @@ import { MatTableModule } from "@angular/material/table";
 import { MatSortModule } from "@angular/material/sort";
 import { MatPaginatorModule } from "@angular/material/paginator";
 import { MatButtonModule } from "@angular/material/button";
+import { MatDividerModule } from "@angular/material/divider";
 @NgModule({
   declarations: [],
   imports: [
@@ -66,6 +67,7 @@ import { MatButtonModule } from "@angular/material/button";
     MatTableModule,
     MatSortModule,
     MatPaginatorModule,
+    MatDividerModule,
   ],
 })
 export class MaterialModule {}
